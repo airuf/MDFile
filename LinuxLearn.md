@@ -9,7 +9,7 @@
 1. 添加用户 ，添加用户组 chown chmod 命令及使用
 1. vim 编辑器 及其使用   gg ctrl+G   q     显示行数  复制 粘贴  :wq   :q   :x 等   
 1. 防火墙   和 SELINUX 的关闭  
-1. 网络配置 
+1. 网络配置    ==== /etc/sysconfig/network-scripts/ifcfg-eth0
 1. ps aux     grep      管道符|     都看一下
 1. 进阶的时候 试试   awk  和 sed   和  xargs
 1. ps aux     grep      管道符|
@@ -25,6 +25,9 @@ http://note.youdao.com/noteshare?id=79b7fdeeb2ecf5494d1c2afbf84c3426&sub=67862F6
 centos6.9
 http://note.youdao.com/noteshare?id=67ba30a2f5b260340c9c3578fbaee550&sub=C897BE79A106495EACF1425B9B482E4B
 
+##=== vm install ===
+
+https://www.cnblogs.com/mYunYu/p/7486851.html
 
 - Mysql 5.7
 ----------
