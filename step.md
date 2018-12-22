@@ -1,19 +1,23 @@
-1.收集资料。
-2.办理户口
-3.办理护照
-4.10.1
-
-
-#帖子
-
-https://tieba.baidu.com/p/5847985542
-
-https://tieba.baidu.com/p/5851977720
-
-
-#网址
+1.piano
+2.english
+3.
 
 
 
 
-#流程
+c++:
+leetcode 
+
+**wirte**
+
+	1.write prototype code.
+	2.sorting code 
+	3.adding unit tests
+	4.add comment
+
+**fix**
+
+	1.add patch
+	2.sorting code
+	3.run unit tests
+	4.add comment
