@@ -22,6 +22,8 @@ BTNSTA r\_openButton, r_closeButton, switchButton;
 bool SetSerialPort(int portID, unsigned int baudRate)
 void Close();
 
+##头文件的顺序
+
 
 ##审核流程：
 1. 得到代码
